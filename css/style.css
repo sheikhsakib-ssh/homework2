@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(241, 147, 23);
+}
+
+.div1{
+    color: rgb(236, 236, 230);
+    background-color: rgb(240, 6, 6);
+    height: 50px;
+}
+
+.maindiv{
+    display: flex;
+}
+.div2{
+    background-color: green;
+    width: 50%;
+    height: 70px;
+    color: aliceblue;
+}
+
+.div3{
+    background-color: rgb(10, 25, 228);
+    width: 50%;
+    height: 70px;
+    color: aliceblue;
+}
+.div4{
+    background-color: rgb(4, 5, 4);
+    height: 50px;
+    color: aliceblue;
+}
+
+q{
+    color: rgb(60, 142, 214);
+ 
+}
+
+s{
+    color: rgb(22, 206, 145);
+}
+
+small{
+    color: rgb(240, 6, 6);
+}
+
+p{
+    color: rgb(241, 97, 0);
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+.tr1{
+    background-color: rgb(134, 180, 221);
+}
+.tr2{
+    background-color: rgb(181, 187, 180);
+}
